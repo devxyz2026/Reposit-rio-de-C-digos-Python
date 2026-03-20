@@ -1,2 +1,2 @@
-# Reposit-rio-de-C-digos-Python
+# Repositorio de Codigos Python
 Repositório com códigos de python
